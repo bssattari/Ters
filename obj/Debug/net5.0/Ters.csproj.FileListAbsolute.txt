@@ -1,0 +1,16 @@
+D:\MKSULAR\CSharp\Console\Ters\bin\Debug\net5.0\Ters.exe
+D:\MKSULAR\CSharp\Console\Ters\bin\Debug\net5.0\Ters.deps.json
+D:\MKSULAR\CSharp\Console\Ters\bin\Debug\net5.0\Ters.runtimeconfig.json
+D:\MKSULAR\CSharp\Console\Ters\bin\Debug\net5.0\Ters.runtimeconfig.dev.json
+D:\MKSULAR\CSharp\Console\Ters\bin\Debug\net5.0\Ters.dll
+D:\MKSULAR\CSharp\Console\Ters\bin\Debug\net5.0\ref\Ters.dll
+D:\MKSULAR\CSharp\Console\Ters\bin\Debug\net5.0\Ters.pdb
+D:\MKSULAR\CSharp\Console\Ters\obj\Debug\net5.0\Ters.csproj.AssemblyReference.cache
+D:\MKSULAR\CSharp\Console\Ters\obj\Debug\net5.0\Ters.GeneratedMSBuildEditorConfig.editorconfig
+D:\MKSULAR\CSharp\Console\Ters\obj\Debug\net5.0\Ters.AssemblyInfoInputs.cache
+D:\MKSULAR\CSharp\Console\Ters\obj\Debug\net5.0\Ters.AssemblyInfo.cs
+D:\MKSULAR\CSharp\Console\Ters\obj\Debug\net5.0\Ters.csproj.CoreCompileInputs.cache
+D:\MKSULAR\CSharp\Console\Ters\obj\Debug\net5.0\Ters.dll
+D:\MKSULAR\CSharp\Console\Ters\obj\Debug\net5.0\ref\Ters.dll
+D:\MKSULAR\CSharp\Console\Ters\obj\Debug\net5.0\Ters.pdb
+D:\MKSULAR\CSharp\Console\Ters\obj\Debug\net5.0\Ters.genruntimeconfig.cache
